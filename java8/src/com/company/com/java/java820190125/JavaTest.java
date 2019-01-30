@@ -7,6 +7,7 @@ import java.time.format.DateTimeParseException;
 
 public class JavaTest {
     public static void main(String[] args) {
+        //add some for test
         String goodFriday = "Apr 18 2014";
         try {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MMM dd yyyy");
