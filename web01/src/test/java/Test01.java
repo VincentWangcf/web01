@@ -1,5 +1,5 @@
 public class Test01 {
-    @EJB
+
     private  String name ="s";
     public static void main(String[] args) {
 //        IDEA怎样使用git将项目上传到github中
